@@ -1,0 +1,15 @@
+# Python bytecode cache. The pipeline writes none (scripts run with python -B and local
+# imports suppress it); listed in case another tool creates one.
+__pycache__/
+*.pyc
+
+# Outputs go to <PROJECT_ROOT>/dervatives/practical_application_generic, never here.
+lv0_out_*
+lv1_out_*
+lv2_out_*
+_sweep_lvl*/
+*.log
+errors/
+
+# Executed copies of command-line notebook runs (README section 3).
+*_executed.ipynb

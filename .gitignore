@@ -1,0 +1,8 @@
+# Kept out of the repository: private review material, earlier states of the project, and the staging folders of
+# make_practical_application_emst.py (a regeneration in progress, or one kept as <staging>_FAILED).
+reviewer_arm/
+archive/
+.practical_application_emst.staging_*
+# Python bytecode (the pipeline writes none: python -B); listed in case another tool creates it.
+__pycache__/
+*.pyc
