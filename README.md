@@ -93,3 +93,4 @@ repository.
 
 - **Not in the repository.** [`.gitignore`](.gitignore) keeps private review material, earlier states of the project and
   the generator's staging folders out of the repository.
+# EMST-dissertation
